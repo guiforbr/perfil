@@ -94,6 +94,11 @@ margin-top: 1vh;
     font-weight: 800;
 }
 
+.menu ul li a {
+    display: block; /* Torna o link clicável em toda a área do <li> */
+}
+
+
 .Whatsapp{
     color: green;
 }
